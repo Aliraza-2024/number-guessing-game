@@ -1,9 +1,10 @@
 {
   "name": "aliraza_2024--number-guessing",
-  "version": "2.0.1",
+  "version": "1.0.0",
   "description": "a simple cli-number-guessing-game with Typescript,Node.",
   "main": "index.js",
   "type": "module",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
